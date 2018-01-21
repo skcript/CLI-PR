@@ -9,9 +9,8 @@ Issue a Pull Request from Command Line using a simple Bash Script + Hub.
 5. After you write great code and commit, run `bash pr.sh` to issue a PR.
 
 ## TODO
-[ ] Integrate with Lazy Git
-
-[ ] Add the ability to ask the user for meta about the repo and store it locally
+- [ ] Integrate with Lazy Git
+- [ ] Add the ability to ask the user for meta about the repo and store it locally
 
 ## About
 
