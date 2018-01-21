@@ -8,6 +8,15 @@ Issue a Pull Request from Command Line using a simple Bash Script + Hub.
 4. Open and change the repo name, upstream name, company name and branch name
 5. After you write great code and commit, run `bash pr.sh` to issue a PR.
 
+## Post Setup
+To make it even more easier, you can just add this snippet as a alias to your `~/.bashrc` file:
+
+```
+alias gpr="bash pr.sh"
+```
+
+Post which, you can just run `gpr` within your repo folder to trigger CLI-PR.
+
 ## TODO
 - [ ] Integrate with Lazy Git
 - [ ] Add the ability to ask the user for meta about the repo and store it locally
