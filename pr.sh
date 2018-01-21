@@ -10,11 +10,11 @@
 #
 # Customize this script to work with your repo:
 #   "origin" - <your forked URL>
-#   "upstream" - skcript/<reponame>
+#   "companyname" - skcript/<reponame>
 #   "repo-name" - <name of your repository>
 #   "branch" - <Your upstream branch name>
 #
-UPSTREAM=<upstream>/<repo-name>:<branch>
+UPSTREAM=<companyname>/<repo-name>:<branch>
 
 # Get the Pull Request Title from the user
 echo -n "PR Title: "
