@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 #
+# CLI-PR is a simple bash script that helps you issue a Pull Request from CLI.
+#
 # Meet the dependencies:
 #   Install Hub (https://github.com/github/hub)
 #   > brew install hub
