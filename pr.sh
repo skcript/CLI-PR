@@ -28,7 +28,7 @@ git push origin ${topic_branch}
 hub pull-request -b ${UPSTREAM} -F - > /tmp/last_pr_url <<MSG
 ${title}
 
-# Check for a Pull Request template
+This PR was raised using [CLI-PR](https://github.com/skcript/CLI-PR)
 `cat PULL_REQUEST_TEMPLATE`
 MSG
 pr_url=`cat /tmp/last_pr_url`
