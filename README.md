@@ -10,7 +10,9 @@ Issue a Pull Request from Command Line using a simple Bash Script + Hub.
 
 ## TODO
 [ ] Integrate with Lazy Git
+
 [ ] Add the ability to ask the user for meta about the repo and store it locally
+
 ## About
 
 ![Skcript](http://www.skcript.com/static/skcript_norm.png)
