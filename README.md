@@ -23,7 +23,7 @@ Post which, you can just run `gpr` within your repo folder to trigger CLI-PR.
 
 ## About
 
-![Skcript](http://www.skcript.com/static/skcript_norm.png)
+<p align="center"><img src="http://www.skcript.com/static/skcript_norm.png" width="280"/></p>
 
 CLI-PR is maintained by Skcript. The names and logos for Skcript are properties of Skcript.
 
